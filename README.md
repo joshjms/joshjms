@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Joshua James. I'm a college student as of August 2022. 
+
 <!--
 **joshjms/joshjms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
