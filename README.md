@@ -5,7 +5,7 @@ I'm Joshua, I use Go (among many other things). I am passionate in cloud infrast
 ## I'm currently working on
 * Building [jjudge](https://github.com/joshjms/jjudge)
 * Development lead for [NTUMods](https://ntumods.org)
-* I try to help out at [etcd](https://github.com/etcd-io/etcd)
+* I sometimes help out at [etcd](https://github.com/etcd-io/etcd)
 
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshjms&show_icons=true&theme=tokyonight)
