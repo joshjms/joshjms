@@ -10,4 +10,4 @@ I'm Joshua, I use Go (among many other things). I am passionate in cloud infrast
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshjms&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshjms&layout=compact&exclude_repo=competitive-programming&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshjms&layout=compact&theme=tokyonight)
