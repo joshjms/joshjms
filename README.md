@@ -1,6 +1,6 @@
 # README!!!
 
-I'm Joshua, I use Go (among many other things). I am passionate in cloud infrastructures and distributed systems (and Kubernetes). 
+I'm Joshua, I use Go (among many other things). I am passionate in cloud infrastructures, DevOps, and distributed systems (and Kubernetes). 
 
 ## I'm currently working on
 * Building [jjudge](https://github.com/joshjms/jjudge)
