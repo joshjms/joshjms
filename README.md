@@ -11,3 +11,7 @@ I'm Joshua, I use Go (among many other things). I am passionate in container tec
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshjms&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshjms&layout=compact&theme=tokyonight)
+
+## Count
+
+![Visitor Count](https://profile-counter.glitch.me/joshjms/count.svg)
