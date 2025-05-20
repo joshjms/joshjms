@@ -1,6 +1,6 @@
 # README!!!
 
-[![Visits Badge](https://badges.pufler.dev/visits/joshjms/badge-it)](https://badges.pufler.dev)
+<p align="left"><img src="https://komarev.com/ghpvc/?username=joshjms&label=Profile%20views&color=0e75b6&style=flat" alt="stalkers" /></p>
 
 I'm Joshua, I use Go (among many other things). I am passionate in container technologies, cloud infrastructures, DevOps, and distributed systems (and Kubernetes). 
 
