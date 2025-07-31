@@ -5,9 +5,9 @@
 I'm Joshua, I use Go (among many other things). I am passionate in container technologies, cloud infrastructures, DevOps, and distributed systems (and Kubernetes). 
 
 ## I'm currently working on
-* Building [jjudge](https://github.com/joshjms/jjudge)
-* Development lead for [NTUMods](https://ntumods.org)
-* I sometimes help out at [etcd](https://github.com/etcd-io/etcd)
+* Building [castletown](https://github.com/joshjms/castletown/) and [jjudge](https://github.com/joshjms/jjudge/).
+* Development lead for [NTUMods](https://ntumods.org) and maintainer of [NTUSU IT services](https://github.com/joshjms/ntusu-itc-backend/).
+* You might see me often at [etcd](https://github.com/etcd-io/etcd)
 
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshjms&show_icons=true&theme=tokyonight)
